@@ -12,9 +12,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:** http://carmenmmi.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Carmen Marín Martínez-Iglesias
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto consiste en la búsqueda de materiales que se han escondido por la Facultad de Bellas Artes de la Universidad de Granada, pasando por los distintos departamentos de las asignaturas y subiendo el nivel de dificultad, nuestro jugador deberá emprender una aventura para regresar los materiales al economato.
 
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
