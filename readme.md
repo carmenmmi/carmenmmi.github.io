@@ -1,4 +1,4 @@
-## (busca-busca)
+## (Busca-Busca)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
