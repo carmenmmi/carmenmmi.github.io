@@ -6,8 +6,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 1 Datos 
 
-
-
 **Titulo** : Busca-Busca
 
 **Web:** http://carmenmmi.github.io
@@ -16,36 +14,31 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen** : Este proyecto consiste en la búsqueda de materiales que se han escondido por la Facultad de Bellas Artes de la Universidad de Granada, pasando por los distintos departamentos de las asignaturas y subiendo el nivel de dificultad, nuestro jugador deberá emprender una aventura para regresar los materiales al economato.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:** Juego de aventuras con pixel art 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![buscabuscaedit](https://github.com/carmenmmi/carmenmmi.github.io/assets/134588056/8d36df9b-a992-4395-b979-3c316e130228)
 
-(insertar imágenes a resolucion de 100px alto)
+**Resolución:** tiene un tamaño de 806x546 y estaría pensado en que fuera reescalable para que se pudiera utlilizar en múltiples dispositivos reescalable)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Probado en:**   Actualmente está probado en MS Edge y pensado en un futuro también para otros dipdispositivos  electrónicos (móvil, consola)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** Tiene un tanaño de 103 KB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 02/06/2023
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** : Actualmente el juego solo se puede encontrar en la plataforma web de:
 
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+- Github
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
-
+![IMG_3472](https://github.com/carmenmmi/carmenmmi.github.io/assets/134588056/40607b1d-4147-488d-b205-5c916c5065a4)
+![IMG_3471](https://github.com/carmenmmi/carmenmmi.github.io/assets/134588056/013efb40-8f68-4182-b98b-6ac321165e8d)
+![IMG_3470](https://github.com/carmenmmi/carmenmmi.github.io/assets/134588056/f897e416-f48d-4173-bb58-46ede60db2a4)
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
